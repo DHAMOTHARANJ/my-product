@@ -56,7 +56,7 @@ function App() {
         <ul id="navbar">
           <li>Home</li>
           <li>About</li>
-          <li id="cart"><span class="material-symbols-rounded">
+          <li id="cart"><span className="material-symbols-rounded">
 shopping_cart
 </span>{cartCount}</li>
         </ul>
